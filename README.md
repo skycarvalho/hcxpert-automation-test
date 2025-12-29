@@ -1,4 +1,4 @@
-# Framework de Automação - HCXpert
+# Framework de Automação
 
 Framework de automação de testes Web e API desenvolvido com **Cypress** e **Cucumber** (BDD).
 
