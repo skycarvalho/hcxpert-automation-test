@@ -37,7 +37,7 @@ npm --version
 
 ```bash
 git clone <URL_DO_REPOSITORIO>
-cd hcxpert-automation-test
+cd cypress-automation-test
 ```
 
 ### Passo 2: Instalar as dependências
@@ -48,7 +48,7 @@ npm install
 ## Estrutura do Projeto
 
 ```
-hcxpert-automation-test/
+cypress-automation-test/
 │
 ├── cypress/
 │   ├── e2e/
